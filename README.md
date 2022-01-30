@@ -2,6 +2,8 @@
 
 Business Request & User Stories
 
+<pre><code>
+
 The business request for this data analyst project was an executive sales report for sales managers. Based on the request that was made from the business we following user stories were defined to fulfill delivery and ensure that acceptance criteria’s were maintained throughout the project.  
 
 As a (role)	I want (request / demand)	So that I (user value)	Acceptance Criteria
@@ -11,11 +13,13 @@ As a (role)	I want (request / demand)	So that I (user value)	Acceptance Criteria
 4	Sales Manager	A dashboard overview of internet sales	Follow sales over time against budget	A Power Bi dashboard with graphs and KPIs comparing against budget.
 Data Cleansing & Transformation (SQL)
 
+
 To create the necessary data model for doing analysis and fulfilling the business needs defined in the user stories the following tables were extracted using SQL.
 
 One data source (sales budgets) were provided in Excel format and were connected in the data model in a later step of the process.
 
 Below are the SQL statements for cleansing and transforming necessary data.
+<code/></pre>
 
 # DIM_Calendar:
 
