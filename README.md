@@ -79,7 +79,7 @@ order by
     p.ProductKey asc
 ```
     
- ## FACT Table_Internet Sales:
+## FACT Table_Internet Sales:
  
     
   ```
