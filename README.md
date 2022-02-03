@@ -114,10 +114,12 @@ This data model also shows how FACT_Budget hsa been connected to FACT_InternetSa
 The finished sales management dashboard with one page with works as a dashboard and overview, with two other pages focused on combining tables for necessary details and visualizations to show sales over time, per customers and per products.
 
 
+
+**[Click here to open the dashboard and try it out!](https://app.powerbi.com/view?r=eyJrIjoiYmI4NjZmYjctMjdmYi00NDQ0LThiYjMtNDBlNDA4ZTEwZTZmIiwidCI6IjViOTRkYjBkLWI3NzgtNDc0NC1iYjdkLTY4MjczNmI0NjY5NyJ9)**
+
 ![](Sql_PowerBI_Project.png)
 
 
 
 
 
-**[Click here to open the dashboard and try it out!](https://app.powerbi.com/view?r=eyJrIjoiYmI4NjZmYjctMjdmYi00NDQ0LThiYjMtNDBlNDA4ZTEwZTZmIiwidCI6IjViOTRkYjBkLWI3NzgtNDc0NC1iYjdkLTY4MjczNmI0NjY5NyJ9)**
