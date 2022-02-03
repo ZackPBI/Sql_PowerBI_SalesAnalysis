@@ -11,7 +11,7 @@ Below are the SQL statements for cleansing and transforming necessary data.
 
 
 
-## DIM_Calendar:
+## Look up Table_Calendar:
 
 ```
 -- Cleansed DIM_Date Table --
@@ -21,7 +21,7 @@ SELECT
   [FullDateAlternateKey] AS Date, 
   [EnglishDayNameOfWeek] AS Day, 
   [EnglishMonthName] AS Month, 
-  Left([EnglishMonthName], 3) AS MonthShort,   -- Useful for front end date navigation and front end graphs.
+  Left([EnglishMonthName], 3) AS MonthShort,-- Useful for front end date navigation and front end graphs.
   [MonthNumberOfYear] AS MonthNo, 
   [CalendarQuarter] AS Quarter, 
   [CalendarYear] AS Year ,
@@ -33,7 +33,7 @@ WHERE
 ```
   
 
-## DIM_Customers:
+## Look up Table_Customers:
 
 ```
 -- Cleansed DIM_Customers Table --
@@ -53,7 +53,7 @@ ORDER BY
   CustomerKey ASC -- Ordered List by CustomerKey
   ```
   
-## DIM_Products:
+## Look up Table _Products:
   
   ```
 -- Cleansed DIM_Products Table --
@@ -78,7 +78,8 @@ order by
     p.ProductKey asc
 ```
     
- ## FACT_InternetSales:
+ ## FACT Table_Internet Sales:
+ 
     
   ```
 -- Cleansed FACT_InternetSales Table --
@@ -111,6 +112,9 @@ This data model also shows how FACT_Budget hsa been connected to FACT_InternetSa
 
 The finished sales management dashboard with one page with works as a dashboard and overview, with two other pages focused on combining tables for necessary details and visualizations to show sales over time, per customers and per products.
 
-**Click the picture to to open the dashboard and try it out!**
 
 ![](Sql_PowerBI_Project.png)
+
+
+# ![View The Report](https://app.powerbi.com/view?r=eyJrIjoiYmI4NjZmYjctMjdmYi00NDQ0LThiYjMtNDBlNDA4ZTEwZTZmIiwidCI6IjViOTRkYjBkLWI3NzgtNDc0NC1iYjdkLTY4MjczNmI0NjY5NyJ9)
+
