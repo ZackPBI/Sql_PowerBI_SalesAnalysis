@@ -1,4 +1,5 @@
-# Sales Analysis Project using Sql Server and Power BI
+<h1 align="center">Sales Analysis Project using Sql Server and Power BI</h1>
+
 
 ## Data Cleansing & Transformation (SQL)
 
@@ -116,5 +117,7 @@ The finished sales management dashboard with one page with works as a dashboard 
 ![](Sql_PowerBI_Project.png)
 
 
-# ![View The Report](https://app.powerbi.com/view?r=eyJrIjoiYmI4NjZmYjctMjdmYi00NDQ0LThiYjMtNDBlNDA4ZTEwZTZmIiwidCI6IjViOTRkYjBkLWI3NzgtNDc0NC1iYjdkLTY4MjczNmI0NjY5NyJ9)
 
+
+
+# ![View The Report](https://app.powerbi.com/view?r=eyJrIjoiYmI4NjZmYjctMjdmYi00NDQ0LThiYjMtNDBlNDA4ZTEwZTZmIiwidCI6IjViOTRkYjBkLWI3NzgtNDc0NC1iYjdkLTY4MjczNmI0NjY5NyJ9) 
