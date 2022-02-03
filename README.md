@@ -113,4 +113,4 @@ The finished sales management dashboard with one page with works as a dashboard 
 
 **Click the picture to to open the dashboard and try it out!**
 
-![]()
+![](Sql_PowerBI_Project.png)
